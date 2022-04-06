@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/emily/Pictures/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:zoom="4.631329"
+     inkscape:cx="71.037925"
+     inkscape:cy="41.240862"
+     inkscape:window-width="1920"
+     inkscape:window-height="1059"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10234">
+      <stop
+         style="stop-color:#ffdbff;stop-opacity:1;"
+         offset="0"
+         id="stop10230" />
+      <stop
+         style="stop-color:#ffdbff;stop-opacity:0;"
+         offset="1"
+         id="stop10232" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7686">
+      <stop
+         style="stop-color:#fea7ff;stop-opacity:1;"
+         offset="0"
+         id="stop7682" />
+      <stop
+         style="stop-color:#fea7ff;stop-opacity:0;"
+         offset="1"
+         id="stop7684" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7686"
+       id="linearGradient7688"
+       x1="0.70597519"
+       y1="5.8403262"
+       x2="10.330072"
+       y2="5.8403262"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:label="Film Grain"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Adds a small scale graininess"
+       style="color-interpolation-filters:sRGB;"
+       id="filter8110"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="turbulence"
+         numOctaves="5"
+         baseFrequency="0 0.15600000000000006"
+         seed="210"
+         result="result0"
+         id="feTurbulence8100" />
+      <feColorMatrix
+         result="result4"
+         values="0"
+         type="saturate"
+         id="feColorMatrix8102" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result4"
+         operator="arithmetic"
+         k1="-0.23000000000000057"
+         k2="-1.8499999999999996"
+         k3="8.0800000000000001"
+         result="result2"
+         id="feComposite8104"
+         k4="0.41999999999999993" />
+      <feBlend
+         result="result5"
+         mode="screen"
+         in="result2"
+         in2="SourceGraphic"
+         id="feBlend8106" />
+      <feComposite
+         in="result5"
+         in2="SourceGraphic"
+         operator="in"
+         result="result3"
+         id="feComposite8108" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10234"
+       id="linearGradient10238"
+       x1="0.52958632"
+       y1="5.8403263"
+       x2="10.506461"
+       y2="5.8403263"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#74ffff;fill-opacity:1;stroke-width:0.151251;filter:url(#filter8110)"
+       id="rect7135"
+       width="12.7"
+       height="12.7"
+       x="1.4210855e-14"
+       y="2.8421709e-14"
+       ry="3.430496" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:9.78058px;line-height:1.25;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;opacity:1;mix-blend-mode:normal;fill:#fe7aff;fill-opacity:1;stroke:#ffe8ff;stroke-width:0.88194444;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       x="0.089798674"
+       y="9.3319931"
+       id="text2541"
+       transform="matrix(0.92116156,0,0.31741525,1.0855859,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:9.78058px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fe7aff;fill-opacity:1;stroke:#ffe8ff;stroke-width:0.88194444;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="0.089798674"
+         y="9.3319931"
+         id="tspan3995"
+         sodipodi:role="line">EY</tspan></text>
+  </g>
+</svg>

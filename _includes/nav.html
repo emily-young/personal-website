@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <div class="container-fluid" >
+        <span class="navbar-brand align-items-center fs-4 mb-0">
+            <img src="/assets/images/logo.svg" width="38" height="30" alt="" />
+            My Website
+        </span>
+        <div class="navbar-nav" role="navigation">
+            {% for item in site.data.nav %}
+                <a class="nav-link {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+            {% endfor %}
+        </div>
+    </div>
+</nav>
