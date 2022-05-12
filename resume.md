@@ -4,15 +4,20 @@ layout: default
 ---
 
 # Emily Young
+
 ## Skills
+
 - Languages: Java, Python, JavaScript, HTML, CSS
 - Frameworks: Spring, Hibernate, Junit, Mockito, React, Angular, Bootstrap
 - Tools: IntelliJ IDEA, Tomcat, Maven, Webpack, nmp, git
 - OS: Linux (Ubuntu, Debian, Arch)
 
 ## Experience
+
 ### (October 2016 - July 2019)
+
 ### Profectus Group - Software Developer
+
 - Worked in an agile development environment</li>
 - Improved code quality by pair programming and mob programming
 - Worked on projects Contracts, Security, OneSource, Audire, and RDM

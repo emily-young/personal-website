@@ -1,16 +1,23 @@
 # Personal website
-This is the repository for my personal website.
-It is a simple static website without any backend.
 
-## Requirements
-You will need [Jekyll](https://jekyllrb.com/) installed to build this website.
+This is the code for my personal website.
 
-It can be hosted using any standard web server. Jekyll projects can also be hosted using [GitHub Pages](https://pages.github.com/) which makes deployment simple.
+It uses [Jekyll](https://jekyllrb.com/) to generate static HTML + CSS, so it can be hosted using any standard web
+server. Jekyll projects can also be hosted
+using [GitHub Pages](https://pages.github.com/) which makes deployment simple.
+
+## Dependencies
+
+This website is built using Bundler which can be installed using `gem install bundler`
+
+Then install the required dependencies by running `bundle install`
 
 ## Build
-You can build the website by running`jekyll build`
 
-The generated website should be in the _site directory.
+To build the website run `bundle exec jekyll build`
+
+The generated website files should be in the _site directory.
 
 ## Run
-You can run a local server by running `jekyll serve`
+
+To start a local server run `bundle exec jekyll serve`
